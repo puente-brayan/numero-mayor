@@ -1,0 +1,31 @@
+body{
+  background-color:#c7c7c6;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px 2px 5px #00fbff;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+button {
+  background-color: #80dfff;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 250px;
+}
+
